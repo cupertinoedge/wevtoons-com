@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to Wevtoons!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+What do you like about Wevtoons?
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+How would you prefer to reach Wevtoons? Let us know!
+
+[comment]: # [email@domain.com](mailto:email@domain.com)
